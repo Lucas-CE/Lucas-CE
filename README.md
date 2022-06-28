@@ -6,6 +6,11 @@ Mi intereses estan centrado en el desarrollo web, el analisis de datos y el desa
 
 Actualmente estoy aprendiendo lenguajes de desarrollo web, tales como HTML, CSS, Javascript.
 
+Puedes contactarme por:
+- Email : lucas.carrascoestay@gmail.com
+
+Mis redes:
+- [Twitter](https://twitter.com/LucasSCE)
 
 <!---
 Lucas-CE/Lucas-CE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
