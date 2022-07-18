@@ -1,10 +1,7 @@
 # Hi there!👋
 
-Mi nombre es Lucas Carrasco, estudiante de pregrado de ingeniería civil en computación en la Universidad de Chile.
-
-Mi intereses estan centrado en el desarrollo web, el analisis de datos y el desarrollo de software.
-
-Actualmente estoy aprendiendo lenguajes de desarrollo web, tales como HTML, CSS, Javascript.
+Mi nombre es Lucas Carrasco, soy de Santiago de Chile ![chile](https://user-images.githubusercontent.com/100120556/179535981-1df1687c-f7c1-4085-859c-81ff59709d14.png), 
+y soy estudiante de ingeniería civil en computación en la Universidad de Chile.
 
 ### Languages:
 
@@ -13,10 +10,18 @@ Actualmente estoy aprendiendo lenguajes de desarrollo web, tales como HTML, CSS,
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Puedes contactarme por:
+
+### Learning:
+
+![Javascript](https://img.shields.io/badge/Javascript-FDDA0D?style=for-the-badge&logo=javascript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-DC143C?style=for-the-badge&logo=ruby&logoColor=white)
+
+### Contact
 - Email : lucas.carrascoestay@gmail.com
 
-Mis redes:
-- [Twitter](https://twitter.com/LucasSCE)
+### Where to find me
+<p>
+<a href="https://users.dcc.uchile.cl/~lcarrasc/" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/My Website-9F2B68.svg?&style=for-the-badge" /></a><a href="https://github.com/Lucas-CE" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/LucasSCE" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="www.linkedin.com/in/lucas-carrasco-estay" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 
