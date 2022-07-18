@@ -1,4 +1,4 @@
-## Hi there!👋
+# Hi there!👋
 
 Mi nombre es Lucas Carrasco, estudiante de pregrado de ingeniería civil en computación en la Universidad de Chile.
 
