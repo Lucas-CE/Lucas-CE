@@ -1,7 +1,7 @@
 # Hi there!👋
 
-Mi nombre es Lucas Carrasco, soy de Santiago de Chile ![chile](https://user-images.githubusercontent.com/100120556/179535981-1df1687c-f7c1-4085-859c-81ff59709d14.png), 
-y soy estudiante de ingeniería civil en computación en la Universidad de Chile.
+My name is Lucas Carrasco, i am from Santiago de Chile ![chile](https://user-images.githubusercontent.com/100120556/179535981-1df1687c-f7c1-4085-859c-81ff59709d14.png), 
+and i am Computer Engineering student at the University of Chile.
 
 ### Languages:
 
