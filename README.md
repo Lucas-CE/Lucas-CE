@@ -10,11 +10,11 @@ and i am Computer Engineering student at the Universidad de Chile.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Framework:
+### Frameworks:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-1C2833?style=for-the-badge&logo=react&logoColor=celestial)
 
-### Libraries
+### Libraries:
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-D6D6D6?style=for-the-badge&logo=scikitlearn&logoColor=orange)
 
 
