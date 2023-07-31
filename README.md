@@ -33,7 +33,7 @@ and i am Computer Engineering student at the Universidad de Chile.
   <a href="https://users.dcc.uchile.cl/~lcarrasc/" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/My Website-9F2B68.svg?&style=for-the-badge" />
   <a href="https://github.com/Lucas-CE" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   <a href="https://twitter.com/LucasSCE" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  <a href="https://www.linkedin.com/in/lucas-ce/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://lucas-ce.github.io/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
 
