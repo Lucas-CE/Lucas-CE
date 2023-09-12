@@ -13,7 +13,6 @@ and i am Computer Engineering student at the Universidad de Chile.
 
 ### Frameworks:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-1C2833?style=for-the-badge&logo=react&logoColor=celestial)
 
 ### Libraries:
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
