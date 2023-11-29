@@ -13,12 +13,12 @@ and i am Computer Engineering student at the Universidad de Chile.
 
 ### Frameworks:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![pytorch](https://img.shields.io/badge/pytorch-Ffffbf?style=for-the-badge&logo=pytorch&logoColor=orange)
 
 ### Libraries:
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-000066?style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-6699ff?style=for-the-badge&logo=numpy&logoColor=white)
-![pytorch](https://img.shields.io/badge/pytorch-Ffffbf?style=for-the-badge&logo=pytorch&logoColor=orange)
 
 
 ### Learning:
