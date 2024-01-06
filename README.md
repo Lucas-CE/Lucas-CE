@@ -23,11 +23,6 @@ and i am Computer Engineering student at the Universidad de Chile.
 ![react](https://img.shields.io/badge/react-006EAD?style=for-the-badge&logo=react&logoColor=white)
 
 
-### Learning:
-
-![Javascript](https://img.shields.io/badge/Javascript-FDDA0D?style=for-the-badge&logo=javascript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-600170?style=for-the-badge&logo=kotlin&logoColor=white)
-
 ### Contact
 - Email : lucas.carrascoestay@gmail.com
 
