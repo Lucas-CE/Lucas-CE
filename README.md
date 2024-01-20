@@ -16,6 +16,7 @@ and i am Computer Engineering student at the Universidad de Chile.
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![pytorch](https://img.shields.io/badge/pytorch-Ffffff?style=for-the-badge&logo=pytorch&logoColor=orange)
 ![tensorflow](https://img.shields.io/badge/tensorflow-Ffffff?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![pytorch](https://img.shields.io/badge/lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
 
 ### Libraries:
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
