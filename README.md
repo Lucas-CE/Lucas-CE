@@ -13,7 +13,7 @@
 </p>
 
           
-<p align="left">I'm computing engineer student at University of Chile. I'm passionate about Data Science, Machine Learning, and Software Development.</p>
+<p align="left">I'm computer engineering student at University of Chile. I'm passionate about Data Science, Machine Learning, and Software Development.</p>
 
 - ✨ Now and always studying.
 - 🌱 I’m currently learning and gaining experience in Data Science and ML.
