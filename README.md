@@ -12,3 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=Lucas-CE&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Lucas-CE" style="padding-right:20px;" />
 </p>
 
+          
+<p align="left">I'm computing engineer student at University of Chile. I'm passionate about Data Science, Machine Learning, and Software Development.</p>
+
+- ✨ Now and always studying.
+- 🌱 I’m currently learning and gaining experience in Data Science and ML.
+- ❤ Contributing to Open Source in [DashAI](https://github.com/DashAISoftware/DashAI): A graphical user interface for data science and machine learning.
