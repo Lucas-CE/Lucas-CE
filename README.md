@@ -20,6 +20,7 @@
 - ❤ Contributing to Open Source in [DashAI](https://github.com/DashAISoftware/DashAI): A graphical user interface for data science and machine learning.
 
 ---
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ##### 🖥️ Programming Languages
 <p>
@@ -54,7 +55,8 @@
 
 ##### 🌐 Software and Web libraries
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
+  <i class="devicon-django-plain colored" style="font-size: 40px;"></i>
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
 
